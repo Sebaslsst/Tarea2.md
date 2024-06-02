@@ -18,9 +18,9 @@ Cada ejercicio tiene 3 versiones, una con 'for', otra con 'while' y otra con 'do
 4. **Radicación mediante restas sucesivas**
    - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/Ra%C3%ADz_resta_for
    - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/Ra%C3%ADz_resta_while
-   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/Ra%5Biz_resta_do_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/Raiz_resta_do_while
 5. **Serie Fibonacci**
-   - 'for': 
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/Serie_fibonacci_for
    - 'while':
    - 'do while':
 6. **Factorial de un número**
