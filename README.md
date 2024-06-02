@@ -75,11 +75,11 @@ Cada ejercicio tiene 3 versiones, una con 'for', otra con 'while' y otra con 'do
    - 'for':
    - 'while':
    - 'do while':
-19. ****
+19. **Calcular el n-ésimo número triangular**
    - 'for':
    - 'while':
    - 'do while':
-20. ****
+20. **Calcular la suma de los factoriales de los primeros n números**
    - 'for':
    - 'while':
    - 'do while':
