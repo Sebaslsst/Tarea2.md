@@ -21,16 +21,16 @@ Cada ejercicio tiene 3 versiones, una con 'for', otra con 'while' y otra con 'do
    - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/Raiz_resta_do_while
 5. **Serie Fibonacci**
    - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/Serie_fibonacci_for
-   - 'while':
-   - 'do while':
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/Serie_fibonacci_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/Serie_fibonacci_do_while
 6. **Factorial de un número**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/factorial_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/factorial_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/factorial_do_while
 7. **Suma de una serie aritmética**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_serie_arit_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_serie_arit_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_serie_arit_do_while
 8. **Producto de una serie geométrica**
    - 'for':
    - 'while':
