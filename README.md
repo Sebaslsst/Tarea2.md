@@ -4,17 +4,17 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 ## Estructura del Repositorio 
 Cada ejercicio tiene 3 versiones, una con 'for', otra con 'while' y otra con 'do while'. A continuación se detalla la ubicación de cada uno de los ejercicios 
 1. **Suma de los digitos de un número**
-   - 'for': 
-   - 'while': 
-   - 'do while': 
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/Suma_digitos_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/Suma_digitos_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/Suma_digitos_do_while
 2. **Inverso de un número**
    - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/Inverso_for
    - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/Inverso_while
    - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/Inverso_do_while
 3. **Potencia mediante sumas sucesivas**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/potencia_suma_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/potencia_suma_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/potencia_suma_do_while
 4. **Radicación mediante restas sucesivas**
    - 'for':
    - 'while':
