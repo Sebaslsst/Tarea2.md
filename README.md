@@ -32,54 +32,55 @@ Cada ejercicio tiene 3 versiones, una con 'for', otra con 'while' y otra con 'do
    - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_serie_arit_while
    - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_serie_arit_do_while
 8. **Producto de una serie geométrica**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/producto_serie_geom%C3%A9_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/producto_serie_geom%C3%A9_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/producto_serie_geom%C3%A9_do_while
 9. **Número de digitos de un número**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/n%C3%BAmeros_d%C3%ADgitos_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/n%C3%BAmeros_d%C3%ADgitos_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/n%C3%BAmeros_d%C3%ADgitos_do_while
 10. **Verificar si un número es primo**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/n%C3%BAmero_esprimo_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/n%C3%BAmero_esprimo_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/n%C3%BAmero_esprimo_do_while
 11. **Encontrar el MCD (Máximo Común Divisor)**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/MCD_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/MCD_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/MCD_do_while
 12. **Sumar los números impares hasta n**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_num_imp_hast_n_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_num_imp_hast_n_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_num_imp_hast_n_do_while
 13. **Sumar los números pares hasta n**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_num_pares_hast_n_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_num_pares_hast_n_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_num_pares_hast_n_do_while
 14. **Suma de los cuadrados de los primeros n números**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_cuadrados_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_cuadrados_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_cuadrados_do_while
 15. **Suma de los cubos de los primeros n números**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_cubos_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_cubos_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_cubos_do_while
 16. **Suma de una serie de números fraccionarios**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_serie_fracci_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_serie_fracci_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_serie_fracci_do_while
 17. **Producto de una serie de números fraccionarios**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/producto_serie_fracci_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/producto_serie_fracci_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/producto_serie_fracci_do_while
 18. **Contar los números primos hasta n**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/contar_n%C3%BAm_primos_n_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/contar_n%C3%BAm_primos_n_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/contar_n%C3%BAm_primos_n_do_while
 19. **Calcular el n-ésimo número triangular**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/calcular_n-%C3%A9simo_n%C3%BAm_trian_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/calcular_n-%C3%A9simo_n%C3%BAm_trian_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/calcular_n-%C3%A9simo_n%C3%BAm_trian_do_while
 20. **Calcular la suma de los factoriales de los primeros n números**
-   - 'for':
-   - 'while':
-   - 'do while':
+   - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_factoriales_n_n%C3%BAm_for
+   - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_factoriales_n_n%C3%BAm_while
+   - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_factoriales_n_n%C3%BAm_do_while
+##Gracias##
