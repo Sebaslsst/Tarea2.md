@@ -83,4 +83,4 @@ Cada ejercicio tiene 3 versiones, una con 'for', otra con 'while' y otra con 'do
    - 'for': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_factoriales_n_n%C3%BAm_for
    - 'while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_factoriales_n_n%C3%BAm_while
    - 'do while': https://github.com/Sebaslsst/Taller1.c/blob/main/suma_factoriales_n_n%C3%BAm_do_while
-##Gracias##
+
